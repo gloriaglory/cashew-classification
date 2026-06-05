@@ -1,0 +1,60 @@
+{
+  "anthracnose": {
+    "disease": "Anthracnose",
+    "symptoms": "Brown/black spots with yellow halos on leaves",
+    "pesticides": [
+      "Carbendazim (0.5%)",
+      "Copper Oxychloride (1%)",
+      "Mancozeb (0.2%)"
+    ],
+    "frequency": "Every 15 days",
+    "best_time": "During monsoon season",
+    "prevention": "Remove infected leaves, maintain field hygiene"
+  },
+  "gumosis": {
+    "disease": "Gumosis (Stem Canker)",
+    "symptoms": "Gum oozing from branches, bark cankers",
+    "pesticides": [
+      "Copper Oxychloride (1%)",
+      "Bordeaux mixture (1%)",
+      "Carbendazim (0.5%)"
+    ],
+    "frequency": "Every 10 days",
+    "best_time": "During rainy season",
+    "prevention": "Prune affected branches 5cm below infection zone"
+  },
+  "red_rust": {
+    "disease": "Red Rust",
+    "symptoms": "Orange-red pustules on leaf underside",
+    "pesticides": [
+      "Sulfur powder (3-5%)",
+      "Copper Oxychloride (1%)",
+      "Wettable Sulfur (0.3%)"
+    ],
+    "frequency": "Every 15 days",
+    "best_time": "Post-monsoon period",
+    "prevention": "Improve air circulation, avoid overhead irrigation"
+  },
+  "leaf_miner": {
+    "disease": "Leaf Miner",
+    "symptoms": "White mines (tunnels) on leaves, yellowing",
+    "pesticides": [
+      "Monocrotophos (0.05%)",
+      "Dichlorovos (0.05%)",
+      "Neem oil (5%)"
+    ],
+    "frequency": "Every 10 days",
+    "best_time": "When first mines appear",
+    "prevention": "Remove affected leaves, encourage natural predators"
+  },
+  "healthy": {
+    "disease": "Healthy Leaf",
+    "symptoms": "No visible signs of leaf anomalies",
+    "pesticides": [
+      "No treatment needed - Continue monitoring"
+    ],
+    "frequency": "Preventive observations only",
+    "best_time": "Regular farm maintenance checks",
+    "prevention": "Regular nitrogen balance monitoring and irrigation control"
+  }
+}

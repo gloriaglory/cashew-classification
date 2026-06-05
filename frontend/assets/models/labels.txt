@@ -1,0 +1,5 @@
+anthracnose
+gumosis
+healthy
+leaf_miner
+red_rust
