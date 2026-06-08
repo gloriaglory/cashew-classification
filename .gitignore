@@ -1,32 +1,48 @@
-# Virtual Environment
+# ── Python / Django (backend/) ────────────────────────────────────────────────
 .venv/
 venv/
 env/
-
-# Python cache files
 __pycache__/
 *.py[cod]
 *$py.class
+*.egg-info/
+dist/
+build/
+.eggs/
 
-# Django / Database
-db.sqlite3
-media/
-cashew_dashboard/media/
+backend/.env
+backend/db.sqlite3
+backend/uploads/
+backend/staticfiles/
 
-# Datasets and Models
-Data set/
+# ── Flutter (frontend/) ───────────────────────────────────────────────────────
+frontend/.dart_tool/
+frontend/.flutter-plugins
+frontend/.flutter-plugins-dependencies
+frontend/build/
+frontend/.packages
+frontend/pubspec.lock
+
+# ── Large binary assets (tracked only when explicitly added) ──────────────────
 *.keras
 *.h5
+*.tflite
+*.onnx
 
-# OS generated files
-.DS_Store
-.DS_Store?
-._*
-.Spotlight-V100
-.Trashes
-ehthumbs.db
-Thumbs.db
+# ── Dataset ───────────────────────────────────────────────────────────────────
+Data set/
 
-# IDEs
+# ── IDE / OS ──────────────────────────────────────────────────────────────────
 .vscode/
 .idea/
+*.iml
+.DS_Store
+Thumbs.db
+
+# ── React dashboard (dashboard/) ─────────────────────────────────────────────
+dashboard/node_modules/
+dashboard/dist/
+dashboard/.env
+
+# ── Jupyter ───────────────────────────────────────────────────────────────────
+.ipynb_checkpoints/

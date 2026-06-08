@@ -1,0 +1,38 @@
+{
+  "Anthracnose": {
+    "pesticide_name": "Mancozeb 75% WP + Carbendazim 50% WP",
+    "dosage": "Mancozeb: 2.5 g/L water; Carbendazim: 1 g/L water (alternated every 14 days)",
+    "application_method": "Foliar spray — thoroughly wet all leaf surfaces, stems, and developing fruits. Spray in the early morning or evening. Repeat every 10–14 days during the rainy season or when disease pressure is high.",
+    "recommendation": "Begin preventive sprays before the rainy season. Apply Mancozeb 75% WP at 2.5 g/L as a protectant. If infection is present, switch to Carbendazim 50% WP at 1 g/L as a systemic curative. Alternate between these two fungicides to prevent resistance development. A minimum of 3–4 applications per season is recommended. Ensure complete coverage of all plant surfaces."
+  },
+  "Die_Back": {
+    "pesticide_name": "Thiophanate-methyl 70% WP + Copper Oxychloride 50% WP",
+    "dosage": "Thiophanate-methyl: 1.5 g/L water; Copper Oxychloride: 3 g/L water for wound treatment paste",
+    "application_method": "Prune infected branches 10–15 cm below the infection zone. Apply Thiophanate-methyl solution as a foliar spray. Paint pruning wounds and cankers with thick Copper Oxychloride paste (mixed with water to form a paste). Spray entire canopy preventively.",
+    "recommendation": "Prune all infected wood first. Sterilize pruning tools with 70% alcohol between cuts. Apply Thiophanate-methyl 70% WP spray at 1.5 g/L over entire tree. Seal all wounds immediately with Copper Oxychloride paste. For severe infections, apply systemic fungicide Propiconazole 25% EC at 1 mL/L as a trunk drench. Repeat sprays every 21 days. Collect and destroy all pruned material."
+  },
+  "Gummosis": {
+    "pesticide_name": "Metalaxyl + Mancozeb (Ridomil Gold) + Copper Hydroxide",
+    "dosage": "Ridomil Gold MZ 68 WG: 2.5 g/L water; Copper Hydroxide: 3 g/L water for bark painting",
+    "application_method": "Drench the soil around the base of affected trees with Metalaxyl + Mancozeb solution. Scrape infected bark tissue and paint the exposed area with Copper Hydroxide paste. Apply systemic fungicide as foliar spray to the entire canopy.",
+    "recommendation": "Scrape away all infected bark until healthy wood is visible. Dry the wound for 24 hours. Apply Copper Hydroxide paste to the scraped area. Drench soil around the trunk with Ridomil Gold MZ 68 WG at 2.5 g/L — apply 5–10 L per tree. Improve soil drainage urgently. Repeat soil drench every 30 days for 3 applications. Avoid waterlogging. For severe cases, inject Fosetyl-Aluminum at 3 g/L into the trunk."
+  },
+  "Healthy": {
+    "pesticide_name": "No pesticide required — Preventive care recommended",
+    "dosage": "Preventive: Mancozeb 75% WP at 2.0 g/L water (optional protective spray)",
+    "application_method": "No treatment required. Apply optional preventive Mancozeb spray at start of rainy season as a protective measure. Focus on good cultural practices.",
+    "recommendation": "No disease treatment necessary. Maintain tree health with balanced NPK fertilization (10:8:10). Apply optional preventive Mancozeb 75% WP spray at 2.0 g/L at the start of the rainy season. Ensure proper drainage. Keep orchard clean by removing dead leaves and pruning debris. Monitor regularly for early signs of disease. Apply micronutrient foliar spray (Zinc + Boron) during flowering for better yield."
+  },
+  "Leaf_Blight": {
+    "pesticide_name": "Chlorothalonil 75% WP + Propiconazole 25% EC",
+    "dosage": "Chlorothalonil: 2.0 g/L water; Propiconazole: 1.0 mL/L water",
+    "application_method": "Apply Chlorothalonil as a protective foliar spray on healthy leaves and at the early stage of infection. For established infections, use Propiconazole as a curative systemic spray. Ensure thorough coverage of upper and lower leaf surfaces.",
+    "recommendation": "Apply Chlorothalonil 75% WP at 2.0 g/L as a protective spray before and during early rainy season. If blight symptoms are present, switch to Propiconazole 25% EC at 1.0 mL/L for systemic control. Spray every 10–14 days during the infection period. Collect and destroy fallen infected leaves to reduce inoculum. A minimum of 3–5 sprays per season is recommended. Rotate fungicides to prevent resistance."
+  },
+  "Powdery_Mildew": {
+    "pesticide_name": "Wettable Sulfur 80% WP + Hexaconazole 5% SC",
+    "dosage": "Wettable Sulfur: 3.0 g/L water; Hexaconazole: 1.0 mL/L water",
+    "application_method": "Apply Wettable Sulfur 80% WP as a preventive spray and at early infection stages. For heavy infection, use Hexaconazole 5% SC as a systemic fungicide. Do NOT apply Wettable Sulfur when temperature exceeds 35°C or it will cause phytotoxicity.",
+    "recommendation": "Begin monitoring at flush and flowering stage. Apply Wettable Sulfur 80% WP at 3.0 g/L as first spray. If white powdery growth is seen, apply Hexaconazole 5% SC at 1.0 mL/L immediately. Spray at 7-day intervals during infection peak. Alternatively, use Triadimefon 25% WP at 1.0 g/L. Never spray Sulfur-based fungicides above 35°C. Apply Potassium bicarbonate solution (5 g/L) as an organic alternative. 3–4 sprays per flush cycle recommended."
+  }
+}

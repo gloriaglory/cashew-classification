@@ -1,0 +1,48 @@
+{
+  "classes": [
+    "Anthracnose",
+    "Die_Back",
+    "Gummosis",
+    "Healthy",
+    "Leaf_Blight",
+    "Powdery_Mildew"
+  ],
+  "diseases": {
+    "Anthracnose": {
+      "name": "Anthracnose",
+      "description": "Anthracnose is one of the most destructive fungal diseases of cashew, caused by Colletotrichum gloeosporioides. It affects leaves, stems, flowers, and fruits, causing significant economic losses if left untreated. The disease thrives in warm, humid conditions and spreads rapidly during the rainy season.",
+      "symptoms": "Dark brown to black irregular spots on leaves; Water-soaked lesions that enlarge and coalesce; Premature leaf drop; Lesions on young shoots, flowers, and immature nuts; Sunken, dark necrotic areas on infected tissues; Pink to orange spore masses visible in humid conditions",
+      "prevention": "Plant resistant cashew varieties; Maintain proper spacing for air circulation; Remove and destroy infected plant material; Avoid overhead irrigation; Apply preventive fungicide sprays before rainy season; Practice crop rotation and orchard sanitation"
+    },
+    "Die_Back": {
+      "name": "Die Back",
+      "description": "Die Back is a serious fungal disease of cashew caused by Lasiodiplodia theobromae (syn. Botryodiplodia theobromae). It causes progressive death of branches starting from the tips, leading to significant loss of productive shoots and reduced yield. The pathogen is a wound pathogen that enters through pruning cuts and injuries.",
+      "symptoms": "Wilting and drying of shoot tips progressing downward; Brown to black discoloration of infected twigs; Bark cracking and peeling on affected branches; Dark streaking in woody tissue below bark; Gummy exudate from infected areas; Complete death of branches in severe infections",
+      "prevention": "Prune infected branches 10–15 cm below visible infection; Seal pruning wounds with Bordeaux paste or copper-based fungicide; Avoid pruning during wet weather; Remove and burn all dead and infected branches; Maintain plant vigor through proper nutrition; Avoid mechanical injuries to bark"
+    },
+    "Gummosis": {
+      "name": "Gummosis",
+      "description": "Gummosis in cashew is caused by Phytophthora palmivora and related Phytophthora species. It primarily affects the stem and collar region of the plant, causing exudation of gum from the bark. The disease is more prevalent in poorly drained soils and during periods of high moisture. It can girdle the trunk and kill mature trees.",
+      "symptoms": "Profuse gum exudation from bark of stem and main branches; Dark brown water-soaked lesions beneath the bark; Bark cracking and tissue decay; Yellowing and wilting of foliage; Cankers at or near the soil line; Rotting of roots in severe cases",
+      "prevention": "Ensure proper soil drainage; Avoid water logging around the base of trees; Keep trunk area free from soil and plant debris; Apply Bordeaux mixture or copper-based fungicide to trunk; Avoid trunk injuries; Remove and destroy infected bark; Use disease-free planting material"
+    },
+    "Healthy": {
+      "name": "Healthy",
+      "description": "The cashew leaf appears healthy with no signs of disease, pest damage, or nutrient deficiency. Healthy cashew leaves are a critical indicator of a well-maintained orchard. Regular monitoring and preventive care will help maintain this healthy condition throughout the growing season.",
+      "symptoms": "No disease symptoms; Vibrant green leaf color; Normal leaf size and shape; No spots, lesions, or discoloration; Firm leaf texture; Uniform coloration across leaf surface",
+      "prevention": "Maintain proper nutrition with balanced NPK fertilization; Regular irrigation without waterlogging; Periodic preventive fungicide applications; Regular scouting for early detection of pests and diseases; Proper orchard sanitation; Maintain optimal plant spacing for air circulation"
+    },
+    "Leaf_Blight": {
+      "name": "Leaf Blight",
+      "description": "Leaf Blight of cashew is caused by Cryptosporiopsis spp. and other fungal pathogens. It is a major foliar disease that causes defoliation and significantly reduces photosynthetic capacity of the plant. Heavy infections can lead to premature leaf fall, reduced nut production, and weakening of the tree.",
+      "symptoms": "Large, irregular brown to tan colored lesions on leaves; Lesions with yellow halo or water-soaked border; Rapid spread during humid, wet conditions; Premature defoliation; Multiple lesions merging to cover large leaf areas; Brown necrotic patches with darker margins",
+      "prevention": "Apply protective fungicides at the onset of rainy season; Remove and dispose of fallen infected leaves; Improve air circulation through proper pruning; Avoid overhead irrigation; Apply copper-based fungicides preventively; Monitor regularly for early signs of infection"
+    },
+    "Powdery_Mildew": {
+      "name": "Powdery Mildew",
+      "description": "Powdery Mildew of cashew is caused by Oidium anacardii. It is a widespread disease that primarily affects young leaves, inflorescences, and developing fruits. Unlike most fungal diseases, powdery mildew thrives in dry conditions with high humidity. Severe infections can cause complete crop failure by destroying flowers and young nuts.",
+      "symptoms": "White powdery fungal growth on leaf surfaces; Pale green to yellow patches on upper leaf surface; Distortion and curling of infected young leaves; Premature flower and nut drop; Stunted growth of shoot tips; Coating of white mycelium on inflorescences and young fruits",
+      "prevention": "Plant disease-tolerant cashew varieties; Apply sulfur-based fungicides preventively; Maintain proper plant spacing; Monitor young flush growth and inflorescences closely; Spray fungicides at first sign of white powdery growth; Avoid excessive nitrogen fertilization that promotes lush susceptible growth"
+    }
+  }
+}
